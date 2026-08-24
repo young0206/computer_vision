@@ -1,0 +1,2 @@
+model_checkpoint_path: "Resnet101_tiny__epoch_50-80499"
+all_model_checkpoint_paths: "Resnet101_tiny__epoch_50-80499"
