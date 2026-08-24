@@ -17,6 +17,8 @@
 - U-Net
 - DeepLab V3+
 - EfficientDet
+- Tiny Face
+- Mask R-CNN
 
 ## 📂 Repository Structure
 
