@@ -20,6 +20,10 @@
 - Tiny Face
 - Mask R-CNN
 
+### 02. 자율주행/제조
+
+- MAML
+
 ## 📂 Repository Structure
 
 ```text
