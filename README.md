@@ -23,6 +23,7 @@
 ### 02. 자율주행/제조
 
 - MAML
+- DRAEM
 
 ## 📂 Repository Structure
 
