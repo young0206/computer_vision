@@ -1,2 +1,6 @@
 05.DRAEM/DRAEM-PyTorch/datasets/
 05.DRAEM/DRAEM-PyTorch/checkpoints/
+01.Deep-Emotion/datasets/
+01.Deep-Emotion/checkpoints/
+01.Deep-Emotion/logs/
+01.Deep-Emotion/data/
