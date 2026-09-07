@@ -32,6 +32,7 @@
 
 - Point Transformer
 - VoteNet
+- SPCNAS
 
 ## 📂 Repository Structure
 
