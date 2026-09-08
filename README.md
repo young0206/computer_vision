@@ -33,6 +33,7 @@
 - Point Transformer
 - VoteNet
 - SPCNAS
+- VoxelNet
 
 ## 📂 Repository Structure
 
