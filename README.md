@@ -35,6 +35,10 @@
 - SPCNAS
 - VoxelNet
 
+### 04. 의료/헬스케어
+
+- UNet
+
 ## 📂 Repository Structure
 
 ```text
