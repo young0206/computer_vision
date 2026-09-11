@@ -38,6 +38,7 @@
 ### 04. 의료/헬스케어
 
 - UNet
+- VoxelMorph
 
 ## 📂 Repository Structure
 
