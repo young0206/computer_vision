@@ -1,0 +1,18 @@
+-Preprocessing: The IXI dataset was preprocessed (e.g., skull stripping, affine alignment, and subcortical segmentation) by using FreeSurfer.
+-Train-Val-Test split: There are 576 brain MRI volumes in total. We split the dataset into a ratio of 7:1:2, where 403 for training (IXI_data/Train/), 58 for validation (IXI_data/Val/), and 115 for testing (IXI_data/Test/).
+-Atlas image: Additionally, there is one atlas MRI volume and its corresponding subcortical segmentation (IXI_data/altas.pkl). This atlas volume was obtained from CycleMorph.
+-File format: Each .pkl file contains a T1 weighted brain MRI and its corresponding subcortical segmentation. You can read .pkl file in python by doing:
+	import pickle
+	def pkload(fname):
+    	    with open(fname, 'rb') as f:
+        	return pickle.load(f)
+
+	image, label = pkload("image.pkl")
+-Normalization: The intensity values of each image volume are normalized into a range [0,1].
+
+For more information, please visit: 
+https://github.com/junyuchen245/Preprocessed_IXI_Dataset/blob/main/README.md
+
+and
+
+https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/blob/main/TransMorph_on_IXI.md

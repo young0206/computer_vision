@@ -23,3 +23,16 @@ __pycache__/
 __pycache__/
 04.메디컬/01.unet++/UNET++_TF/stage1_train/
 04.메디컬/01.unet++/UNET++_pytorch/inputs/data-science-bowl-2018/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.h5
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+experiments/
+logs/
+runs/
+04.메디컬/02.VoxelMorph/IXI_data/
+04.메디컬/02.VoxelMorph/IXI_data.zip
