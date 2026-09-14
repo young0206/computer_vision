@@ -39,6 +39,7 @@
 
 - UNet
 - VoxelMorph
+- MedVQA
 
 ## 📂 Repository Structure
 
