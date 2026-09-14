@@ -36,3 +36,4 @@ logs/
 runs/
 04.메디컬/02.VoxelMorph/IXI_data/
 04.메디컬/02.VoxelMorph/IXI_data.zip
+__pycache__/
