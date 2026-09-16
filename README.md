@@ -44,6 +44,7 @@
 ### 05. AR/ 얼굴인식
 
 - NeRF
+- Instant NeRF
 
 ## 📂 Repository Structure
 
