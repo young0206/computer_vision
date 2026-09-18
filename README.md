@@ -46,6 +46,7 @@
 - NeRF
 - Instant NeRF
 - PIFuHD
+- NeuralRecon
 
 ## 📂 Repository Structure
 
