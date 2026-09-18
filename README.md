@@ -45,6 +45,7 @@
 
 - NeRF
 - Instant NeRF
+- PIFuHD
 
 ## 📂 Repository Structure
 
