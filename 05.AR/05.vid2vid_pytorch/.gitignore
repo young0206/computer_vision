@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# pretrained checkpoints
+checkpoints/
+
+# training dataset
+vox/
+
+# training outputs
+log/
+result/
