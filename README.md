@@ -47,6 +47,7 @@
 - Instant NeRF
 - PIFuHD
 - NeuralRecon
+- Vid2Vid
 
 ## 📂 Repository Structure
 
