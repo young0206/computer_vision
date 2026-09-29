@@ -48,6 +48,7 @@
 - PIFuHD
 - NeuralRecon
 - Vid2Vid
+- FAN
 
 ## 📂 Repository Structure
 
