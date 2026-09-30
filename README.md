@@ -50,6 +50,10 @@
 - Vid2Vid
 - FAN
 
+### 06. 멀티모달/임베디드
+
+- DELF
+
 ## 📂 Repository Structure
 
 ```text
