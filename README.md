@@ -53,6 +53,7 @@
 ### 06. 멀티모달/임베디드
 
 - DELF
+- Speech2Vid
 
 ## 📂 Repository Structure
 
