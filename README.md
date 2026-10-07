@@ -55,6 +55,7 @@
 - DELF
 - Speech2Vid
 - EfficientNet
+- CharNet
 
 ## 📂 Repository Structure
 
